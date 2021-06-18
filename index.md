@@ -1,5 +1,5 @@
 ## Bibliography
-- [kalnay-book-bibliography.bib](/Users/cda/Desktop/website/bookdemo/bib/kalnay-book-bibliography.bib)
+- [kalnay-book-bibliography.bib](https://cda10k.github.io/bookdemo/bib/kalnay-book-bibliography.bib)
 
 ## Additional book chapters
 - [Chapter 5](https://cda10k.github.io/bookdemo/sup/ch5_sup.pdf)(Balance, initialization & VarQC)
